@@ -17,7 +17,7 @@
 <br>
   
 <p align="center">
-<Strong>My Email📧</Strong><br>sunil1360@bible.ac.kr<br>
+<Strong>My Email📧</Strong><br>sunil1369@bible.ac.kr<br>
 </p>
 
 <br>
