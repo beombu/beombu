@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Beombu%20GitHub&fontAlign=50&stroke=00FF00)
 
 <p align="center">
-안녕하세용🎎<br>
+안녕하요요🎎<br>
 저는 백엔드 개발자로 공부하고 있는 신범철입니다!<br>
-현재 대학교에 재학중이며 좋은 개발자로 거듭나기 위해 노력중입니다.<br>
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 <br>
   
 <p align="center">
-<Strong>My Email📧</Strong><br>sunil1369@bible.ac.kr<br>
+<Strong>My Email📧</Strong><br>beombu13@gmail.com<br>
 </p>
 
 <br>
