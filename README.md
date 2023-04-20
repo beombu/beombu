@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Beombu%20GitHub&fontAlign=50&stroke=00FF00)
 
 <p align="center">
-안녕하요요🎎<br>
+안녕하세요🎎<br>
 저는 백엔드 개발자로 공부하고 있는 신범철입니다!<br>
 </p>
 
