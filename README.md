@@ -5,12 +5,6 @@
 저는 백엔드 개발자로 공부하고 있는 신범철입니다!<br>
 </p>
 
-<p align="center">
-<Strong>☁️SNS list☁️</Strong>
-<br><br>
-<a href="https://velog.io/@sunil1369" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-</p>
-
 <br>
   
 <p align="center">
